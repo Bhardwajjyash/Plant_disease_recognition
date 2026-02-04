@@ -1,1 +1,1 @@
-# Plant_disease-_recognition
+# Plant_disease_recognition
